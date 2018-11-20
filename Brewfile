@@ -108,6 +108,7 @@ brew socat
 brew source-highlight
 brew sphinx-doc
 brew sqlite
+brew terraform
 brew tig
 brew tmux
 brew tofrodos
