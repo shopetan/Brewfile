@@ -6,6 +6,7 @@ brew ansible
 brew autoconf
 brew autojump
 brew automake
+brew bat
 brew bdw-gc
 brew boost
 brew cairo
@@ -59,6 +60,7 @@ brew libffi
 brew libidn2
 brew libmpc
 brew libpng
+brew libpq
 brew librsvg
 brew libspiro
 brew libtasn1
@@ -91,8 +93,11 @@ brew packer
 brew pango
 brew pcre
 brew pcre2
+brew pgcli
+brew pipenv
 brew pixman
 brew pkg-config
+brew postgresql
 brew protobuf
 brew pyenv
 brew python
