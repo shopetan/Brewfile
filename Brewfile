@@ -54,11 +54,13 @@ brew jq
 brew kubectx
 brew kubernetes-cli
 brew lha
+brew libcerf
 brew libcroco
 brew libevent
 brew libffi
 brew libidn2
 brew libmpc
+brew libomp
 brew libpng
 brew libpq
 brew librsvg
@@ -85,6 +87,7 @@ brew nettle
 brew nkf
 brew node
 brew oniguruma
+brew openblas
 brew openjpeg
 brew openssl
 brew openssl@1.1
@@ -102,6 +105,7 @@ brew protobuf
 brew pyenv
 brew python
 brew python@2
+brew qt
 brew r
 brew rbenv
 brew readline
