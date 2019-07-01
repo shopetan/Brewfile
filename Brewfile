@@ -97,6 +97,7 @@ brew little-cms2
 brew lua
 brew lv
 brew make
+brew markdown
 brew mas
 brew mcrypt
 brew mecab
@@ -174,10 +175,11 @@ cask font-source-code-pro
 tap homebrew/cask-versions
 
 tap homebrew/cask
-cask alfred
-cask atom
-cask blisk
-cask iterm2
+cask adoptopenjdk
+cask appcleaner
+cask bartender
+cask firefox
+cask shiftit
 cask vagrant
 
 tap argon/mas
@@ -198,10 +200,16 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
+tap ynqa/ktop
+
+# Other Homebrew packages
+brew python3
+
 # Other Cask applications
-cask appcleaner
-cask bartender
-cask firefox
+cask alfred
+cask atom
+cask blisk
+cask iterm2
 cask slack
 
 # App Store applications
