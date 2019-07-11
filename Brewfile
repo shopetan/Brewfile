@@ -146,6 +146,7 @@ brew redis
 brew rlwrap
 brew rtmpdump
 brew ruby-build
+brew sbt
 brew shared-mime-info
 brew socat
 brew source-highlight
@@ -173,12 +174,14 @@ tap homebrew/cask-fonts
 cask font-source-code-pro
 
 tap homebrew/cask-versions
+cask java-beta
 
 tap homebrew/cask
 cask adoptopenjdk
 cask appcleaner
 cask bartender
 cask firefox
+cask java
 cask shiftit
 cask vagrant
 
@@ -210,6 +213,7 @@ cask alfred
 cask atom
 cask blisk
 cask iterm2
+cask java11
 cask slack
 
 # App Store applications
