@@ -39,6 +39,7 @@ brew gdb
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew ghq
 brew gibo
 brew giflib
 brew git
@@ -61,6 +62,7 @@ brew ispell
 brew jansson
 brew jasper
 brew jemalloc
+brew jenv
 brew jpeg
 brew jq
 brew kube-ps1
@@ -174,14 +176,13 @@ tap homebrew/cask-fonts
 cask font-source-code-pro
 
 tap homebrew/cask-versions
-cask java-beta
+cask java11
 
 tap homebrew/cask
 cask adoptopenjdk
 cask appcleaner
 cask bartender
 cask firefox
-cask java
 cask shiftit
 cask vagrant
 
@@ -213,7 +214,6 @@ cask alfred
 cask atom
 cask blisk
 cask iterm2
-cask java11
 cask slack
 
 # App Store applications
