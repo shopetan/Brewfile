@@ -204,6 +204,8 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
+tap spotify/public
+
 tap ynqa/ktop
 
 # Other Homebrew packages
@@ -215,6 +217,7 @@ cask atom
 cask blisk
 cask iterm2
 cask slack
+cask virtualbox
 
 # App Store applications
 appstore 408981434  (10.1.9)
